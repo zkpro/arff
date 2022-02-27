@@ -24,5 +24,5 @@ urlpatterns = [
     path('arff',views.arff),
     # path('hell',views.hellworld),
     path('weat/',views.weather),
-    path("xf",views.arff),
+    path("jc",views.arff),
 ]
